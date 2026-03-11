@@ -1,0 +1,43 @@
+503/503 [==============================] - 8386s 17s/step - loss: 0.2528 - accuracy: 0.9193 - val_loss: 0.0548 - val_accuracy: 0.9810
+Epoch 2/20
+503/503 [==============================] - 8458s 17s/step - loss: 0.0387 - accuracy: 0.9861 - val_loss: 0.0392 - val_accuracy: 0.9868
+Epoch 3/20
+503/503 [==============================] - 7573s 15s/step - loss: 0.0299 - accuracy: 0.9900 - val_loss: 0.0328 - val_accuracy: 0.9881
+Epoch 4/20
+503/503 [==============================] - 7538s 15s/step - loss: 0.0271 - accuracy: 0.9904 - val_loss: 0.0349 - val_accuracy: 0.9889
+Epoch 5/20
+503/503 [==============================] - 7575s 15s/step - loss: 0.0252 - accuracy: 0.9916 - val_loss: 0.0277 - val_accuracy: 0.9910
+Epoch 6/20
+503/503 [==============================] - 7586s 15s/step - loss: 0.0218 - accuracy: 0.9928 - val_loss: 0.0266 - val_accuracy: 0.9908
+Epoch 7/20
+503/503 [==============================] - 7601s 15s/step - loss: 0.0164 - accuracy: 0.9944 - val_loss: 0.0241 - val_accuracy: 0.9915
+Epoch 8/20
+503/503 [==============================] - 7510s 15s/step - loss: 0.0163 - accuracy: 0.9950 - val_loss: 0.0350 - val_accuracy: 0.9882
+Epoch 9/20
+503/503 [==============================] - 7634s 15s/step - loss: 0.0161 - accuracy: 0.9944 - val_loss: 0.0261 - val_accuracy: 0.9923
+Epoch 10/20
+503/503 [==============================] - 7527s 15s/step - loss: 0.0144 - accuracy: 0.9953 - val_loss: 0.0271 - val_accuracy: 0.9910
+Epoch 11/20
+503/503 [==============================] - 7519s 15s/step - loss: 0.0175 - accuracy: 0.9948 - val_loss: 0.0278 - val_accuracy: 0.9925
+Epoch 12/20
+503/503 [==============================] - 7507s 15s/step - loss: 0.0138 - accuracy: 0.9951 - val_loss: 0.0215 - val_accuracy: 0.9938
+Epoch 13/20
+503/503 [==============================] - 7466s 15s/step - loss: 0.0142 - accuracy: 0.9957 - val_loss: 0.0214 - val_accuracy: 0.9937
+Epoch 14/20
+503/503 [==============================] - 7241s 14s/step - loss: 0.0112 - accuracy: 0.9965 - val_loss: 0.0212 - val_accuracy: 0.9938
+Epoch 15/20
+503/503 [==============================] - 7299s 15s/step - loss: 0.0115 - accuracy: 0.9967 - val_loss: 0.0309 - val_accuracy: 0.9913
+Epoch 16/20
+503/503 [==============================] - 7290s 14s/step - loss: 0.0109 - accuracy: 0.9969 - val_loss: 0.0246 - val_accuracy: 0.9935
+Epoch 17/20
+503/503 [==============================] - 7282s 14s/step - loss: 0.0100 - accuracy: 0.9969 - val_loss: 0.0339 - val_accuracy: 0.9888
+Epoch 18/20
+503/503 [==============================] - 7322s 15s/step - loss: 0.0109 - accuracy: 0.9967 - val_loss: 0.0198 - val_accuracy: 0.9951
+Epoch 19/20
+503/503 [==============================] - 7499s 15s/step - loss: 0.0088 - accuracy: 0.9975 - val_loss: 0.0240 - val_accuracy: 0.9938
+Epoch 20/20
+503/503 [==============================] - 7412s 15s/step - loss: 0.0080 - accuracy: 0.9976 - val_loss: 0.0232 - val_accuracy: 0.9942
+
+** Training has completed successfully.
+** Model is saved in the location 'model_diagnos_final_v2'. 
+
